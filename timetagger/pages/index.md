@@ -1,6 +1,4 @@
-% TimeTagger - Tag your time, get the insight
-% An open source time tracker that feels lightweight and has powerful reporting.
-
+% TimeTagger - Churchill Anaesthetics
 <br />
 
 <img src='timetagger_wd.svg' width='350px' />
@@ -25,8 +23,6 @@ main a.ctabutton:hover {
 </style>
 
 <div>
-    <a href='app/demo' class='ctabutton'>
-        <i class='fas'>\uf04b</i>&nbsp;&nbsp;Demo</a>
     <a href='app/' class='ctabutton'>
         <i class='fas'>\uf04b</i>&nbsp;&nbsp;App</a>
 </div>
@@ -39,6 +35,3 @@ an open source time-tracker that feels lightweight and has powerful reporting.
 Links:
 
 * [Main website](https://timetagger.app)
-* [Source code on Github](https://github.com/almarklein/timetagger)
-* [Docs on RTD](https://timetagger.readthedocs.io)
-* [CLI tool](https://github.com/almarklein/timetagger_cli)
